@@ -31,6 +31,9 @@ ${answers.githubrepo}
 ## FAQs 
 ${answers.faqs} 
 
+## Contributing
+${answers.contributing}
+
 ${licenseSection}
     `
 }

@@ -56,6 +56,12 @@ import('inquirer').then(inquirerModule => {
                 name: 'faqs',
                 message: 'Please provide additional FAQ information that may be helpful.',
             }, 
+            {
+                type: 'input',
+                name: 'contributing',
+                message: 'How can others contribute to your project?',
+                default: 'Contributing to this project is straightforward: Fork the repository, create a new branch for your feature or fix, commit your changes, and then open a pull request. We welcome contributions of all kinds, from bug fixes to feature additions.'
+            }, 
         ]); 
     }; 
  
