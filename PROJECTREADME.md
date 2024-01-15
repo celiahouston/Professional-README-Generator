@@ -4,8 +4,6 @@
 The Professional README Generator is a command-line application that makes the creation of a README file very straightforward.
 This tool uses Node.js and the Inquirer package to dynamically generate a professional README.md file based on user input. This Professional README generator saves developers time and provides a structured README file. 
 
-## Table of Contents
-
 ## Installation 
 Use this application by cloning this repository to your local machine using the following bash command: 
 git clone https://github.com/celiahouston/Professional-README-Generator.git
