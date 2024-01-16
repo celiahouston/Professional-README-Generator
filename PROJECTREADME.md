@@ -10,10 +10,14 @@ git clone https://github.com/celiahouston/Professional-README-Generator.git
 
 Next, navigate to the project directory and isntall the necessary dependencies using the command: npm install 
 
+## Screenshots 
+Please refer to the example readme in the assets folder. 
+Link to walkthrough video: 
+
 ## Usage
 Run the following command in your terminal: 
 node index.js 
-Then, follow the prompts in the coommand line to complete your README.md file. 
+Then, follow the prompts in the command line to complete your README.md file. 
 
 ## Features
 - Dynamic README generation based on user input.
