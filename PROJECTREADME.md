@@ -12,7 +12,12 @@ Next, navigate to the project directory and isntall the necessary dependencies u
 
 ## Screenshots 
 Please refer to the example readme in the assets folder. 
-Link to walkthrough video: 
+Link to walkthrough video links: 
+https://clipchamp.com/watch/IrHcCmvpim7 
+https://youtu.be/CwWD6dyJBXA 
+
+![screenshot](assets/readme-ss-1.png "Readme-ss-1")
+![screenshot](assets/readme-ss-2.png "Readme-ss-2")
 
 ## Usage
 Run the following command in your terminal: 
